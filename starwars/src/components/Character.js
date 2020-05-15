@@ -16,15 +16,18 @@ background:rgba(0,0,0,0.4);
 
 
 h3{
+    text-align:left;
+    width: 40%;
     padding: 0 5%;
-    font-size: 1.8em;
+    font-size: 1.2em;
     color:white;
 }
 
 .details{
+    width: 60%;
     text-align: right;
     padding: 0 5%;
-    font-size: 1.2em;
+    font-size: 1.0em;
     color:white;
 }
 `
