@@ -23,6 +23,10 @@ button{
   padding: 1% 2%;
   color: white;
   border-radius: 5px;
+  text-align:center;
+  &:hover{
+    background-color:black;
+  }
 }
 
 `
